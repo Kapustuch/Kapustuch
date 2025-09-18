@@ -20,6 +20,3 @@
 - SQL - MySQL for Data Analytics and Business Intelligence  
 - Microsoft Power BI Desktop for Business Intelligence  
 - Cambridge English: First Certificate (B2)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kapustuch&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
