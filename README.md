@@ -12,7 +12,7 @@
 - **Other Skills:** Data cleaning, EDA, visualization, reporting, business insights
 
 # 🎓 Education
-- **National Technical University "Kharkiv Polytechnic Institute"** — B.Sc. in Systems Analysis (2022–present)  
+- **National Technical University "Kharkiv Polytechnic Institute"** — B.Sc. in Systems Analysis 
 
 # 📜 Certifications
 - Python for Machine Learning & Data Science Masterclass  
