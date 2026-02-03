@@ -1,5 +1,5 @@
 # Hi, I’m Yurii!👋
-📊 Aspiring Data Analyst exploring data through Python and SQL.<br>🎓 Studying Systems Analysis at Kharkiv Polytechnic Institute<br>💡 Interested in data visualization, business insights, and ML<br>
+📊 Data Analyst exploring data through Python and SQL.<br>🎓 Studying Systems Analysis at Kharkiv Polytechnic Institute<br>💡 Interested in data visualization, business insights, and ML<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yurii-kapusta) 
