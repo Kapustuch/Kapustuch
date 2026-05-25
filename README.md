@@ -8,8 +8,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 - **Programming:** Python, SQL  
 - **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn  
-- **BI Tools:** Power BI  
-- **Other Skills:** Data cleaning, EDA, visualization, reporting, business insights
+- **BI Tools:** Power BI, Tableau  
+- **Other Skills:** Git, GitHub
 
 # 🎓 Education
 - **National Technical University "Kharkiv Polytechnic Institute"** — B.Sc. in Systems Analysis 
